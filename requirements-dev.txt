@@ -1,0 +1,2 @@
+# Tests use a fake model, so no AI packages or API keys are needed.
+pytest>=8.0
